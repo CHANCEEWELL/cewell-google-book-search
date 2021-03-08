@@ -5,14 +5,14 @@ Google API w/ Book Search
 
 ## Technologies Used: 
 
-- Google API
+- Google Books API
 - JavaScript
 - Git
 - React
 - Bootstrap
 - Visual Studio Code
 - Heroku Apps
-- NPM
+- NPM (node modules)
 - JSON
 
 ## DEPLOYED LINK: 
